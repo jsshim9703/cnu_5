@@ -13,3 +13,5 @@ how to use git
 #mosa7410 : 201602021 안정은
 
 #Jihoon Park : 201402356 박지훈
+
+#jsshim9703 : 201602019 심지수
